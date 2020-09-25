@@ -1,1 +1,1 @@
-# common-interview-questions-java
+# common-interview-questions
